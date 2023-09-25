@@ -1,2 +1,2 @@
-# VenChecker
-A simple venmo checker I made when i was bored. It is old I dont think capture works but it gets valid and invalid accounts. I never quite finished it and gave up so im releasing to the public for you guys to use/finish if you want!
+# bored
+🚀 Hey everyone! Check out this Venmo checker I whipped up for fun. It's a bit old and the capture feature might not work, but it's solid for spotting valid and invalid accounts. I never got around to finishing it, so I'm giving it to you all! Feel free to tinker and make it even better. Cheers! - spec012 🛠️
